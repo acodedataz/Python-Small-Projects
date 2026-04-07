@@ -1,0 +1,23 @@
+# IDE Settings (PyCharm)
+.idea/
+*.iml
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (আপনার স্ক্রিনশটে থাকা .venv ফোল্ডারটি)
+.venv/
+venv/
+ENV/
+env/
+
+# Data & Sample Files (পিডিএফ ফাইলগুলো গিটহাবে পাঠানোর দরকার নেই)
+*.pdf
+*.log
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
