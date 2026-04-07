@@ -26,7 +26,9 @@ From utility tools like **PDF Merger** to classic games like **Hangman**, these 
 - **Key Concepts:** File I/O, Error Handling, Logic Building, Randomization, and External Libraries.
 - **Tools:** PyCharm, Git, and Pip.
 
-### ⚙️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/acodedataz/Python-Small-Projects.git](https://github.com/acodedataz/Python-Small-Projects.git)
+### 🚀 How to Use
+
+To get these projects on your local machine, run the following command:
+
+```bash
+git clone [https://github.com/acodedataz/Python-Small-Projects.git](https://github.com/acodedataz/Python-Small-Projects.git)
